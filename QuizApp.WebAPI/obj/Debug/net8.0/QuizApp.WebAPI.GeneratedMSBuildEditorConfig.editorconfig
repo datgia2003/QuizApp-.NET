@@ -1,0 +1,131 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = QuizApp.WebAPI
+build_property.RootNamespace = QuizApp.WebAPI
+build_property.ProjectDir = F:\thực tập\EFC\NWEC_Assignments_Pdf\LuyenQuocDat_QuizApp_Task_03_v1.0\LuyenQuocDat.QuizApp\QuizApp.WebAPI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\thực tập\EFC\NWEC_Assignments_Pdf\LuyenQuocDat_QuizApp_Task_03_v1.0\LuyenQuocDat.QuizApp\QuizApp.WebAPI
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Answers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5zd2Vyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Answers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5zd2Vyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Answers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5zd2Vyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Answers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5zd2Vyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Answers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5zd2Vyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Questions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Questions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Questions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Questions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Questions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Quizs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpenNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Quizs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpenNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Quizs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpenNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Quizs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpenNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Quizs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpenNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Roles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Roles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/thực tập/EFC/NWEC_Assignments_Pdf/LuyenQuocDat_QuizApp_Task_03_v1.0/LuyenQuocDat.QuizApp/QuizApp.WebAPI/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
